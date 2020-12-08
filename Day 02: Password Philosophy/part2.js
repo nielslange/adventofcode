@@ -5,13 +5,13 @@ let valid = 0;
 let invalid = 0;
 
 data.forEach( element => {
-	const part = element.split(/-|:| /);
+	const part = element.split( /-|:| / );
 	const pos1 = part[0];
 	const pos2 = part[1];
 	const char = part[2];
-	const pass = part[04];
-	const char1 = pass.charAt(pos1-1);
-	const char2 = pass.charAt(pos2-1);
+	const pass = part[4];
+	const char1 = pass.charAt( pos1 - 1 );
+	const char2 = pass.charAt( pos2 - 1 );
 	( char == char1 ) != ( char == char2 ) ? valid++ : invalid++;
 } );
 
