@@ -5,6 +5,7 @@ Every December, the Advent of Code takes place. The Advent of Code contains 24 c
 ## 2021
 
 -   [Day 01: Sonar Sweep](https://github.com/nielslange/adventofcode/tree/trunk/2021/Day%2001:%20Sonar%20Sweep)
+-   [Day 02: Dive!](https://github.com/nielslange/adventofcode/tree/trunk/2021/Day%2002:%20Dive!)
 
 ## 2020
 
